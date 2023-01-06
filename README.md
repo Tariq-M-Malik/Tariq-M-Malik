@@ -1,5 +1,3 @@
-[![][portfolio_shield]][portfolio_web_link]
-[![][status_shield]][status_link]
 
 # 👋 Hi, I'm Tariq.
 
