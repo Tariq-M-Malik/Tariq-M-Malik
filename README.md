@@ -1,21 +1,16 @@
-### Hi there 👋
+[![][portfolio_shield]][portfolio_web_link]
+[![][status_shield]][status_link]
 
-<!--
-**Tariq-M-Malik/Tariq-M-Malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tariq.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on CS50x
 - 🌱 I’m currently learning Python & Flask
 - 👯 I’m looking to collaborate on CS50x Final Project
 - 💬 Ask me about any CS50x Problem Set
 - 📫 How to reach me: tariqmalik323@gmail.com
+
+<br>
+
+---
+
+<br>
