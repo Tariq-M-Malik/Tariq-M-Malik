@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on CS50x
+- 🌱 I’m currently learning Python & Flask
+- 👯 I’m looking to collaborate on CS50x Final Project
+- 💬 Ask me about any CS50x Problem Set
+- 📫 How to reach me: tariqmalik323@gmail.com
